@@ -1,0 +1,6 @@
+-- Cliffworms' Rumors of the Iliac Bay
+
+schema: *name, group, membership, minReq, flag, notes
+
+RIB, InitAtGameStart, M, 0, 0, Initialisation & Rumors Reset
+RIBRUMORS, NonMemberGuild, N, 0, 0, Rumors

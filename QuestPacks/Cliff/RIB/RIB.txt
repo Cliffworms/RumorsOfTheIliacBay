@@ -1,0 +1,30 @@
+Quest: RIB
+DisplayName: Rumors of the Iliac Bay - Control
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+
+RefuseQuest:  [1001]
+
+AcceptQuest:  [1002]
+
+QuestFail:  [1003]
+<ce>            
+
+QuestComplete:  [1004]
+
+RumorsDuringQuest:   [1005]
+
+QBN:
+
+
+Clock _reset_ 7.00:00
+
+--	Quest start-up:
+    start timer _reset_
+    start quest RIBRUMORS
+
+_reset_ task:
+    start quest RIBRUMORS
+    end quest

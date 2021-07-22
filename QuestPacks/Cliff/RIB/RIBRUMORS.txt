@@ -1,0 +1,285 @@
+Quest: RIBRUMORS
+DisplayName: Rumors of the Iliac Bay
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+
+RefuseQuest:  [1001]
+
+AcceptQuest:  [1002]
+
+QuestFail:  [1003]
+<ce>            
+
+QuestComplete:  [1004]
+
+RumorsDuringQuest:   [1005]
+I do not want to sound paranoid, but I am convinced that our %t has been possessed by the devil.
+<--->
+%cn is crawling with undead after dark. Be armed at all times!
+<--->
+I do not have any proof of this, but you must believe me. I know %t %rn is an imposter. Not only that. A cannibal too.
+<--->
+This year's harvest looks like the best ever.
+<--->
+This year's harvest looks great. There should be a lot of celebrating.
+<--->
+The good news is that this year's harvest looks as good as last year's.
+<--->
+It seems this year's harvest is going to be as good as last year's.
+<--->
+Rumor has it there is a plague in Skyrim.
+<--->
+My aunt just returned from a little village on the edge of Elsweyr that has been almost completely ravaged by a plague.
+<--->
+The prophet I see tells me that %lp will be decimated by plague early next year.
+<--->
+I heard that some lord in a %lp village angered his patron spirit this week. The local shaman forsees a plague over all the province within the month.
+<--->
+They say Morrowind is doomed to wither away from plague and pestilence this year or next. My opinion is good riddance.
+<--->
+There's a physician of some sort in the wilds of Valenwood who found a cure for lycanthropy. Can you imagine? I didn't even know it was a problem.
+<--->
+My prophet says Summerset Isle is doomed to sink beneath the sea. He did not specify when, but it sounded like soon.
+<--->
+Well, they say a plague has been reported in some remote Summerset shore villages. My sources are dubious, so I could not vouch for the truth.
+<--->
+You will not be surprised to hear a plague is ravaging Black Marsh. What else is new, you know?
+<--->
+Mark my words, %ra. The Elder Gods are coming and Black Marsh will burn for its sins.
+<--->
+Some friends of mine went out searching for the Staff of Magnus, but they disappeared. The fools.
+<--->
+The %rt had a visitor, a foreign scholar tracing the history of Arrovan, the thief who wielded the Skeleton's Key. Apparently, Arrovan stole some stuff from the royal family here in %cn!
+<--->
+Some guy was here last week, trying to sell information about the Ring of Phynaster, like we're the sort of fools to believe in such things.
+<--->
+These Imperial tax collectors have really started to get on everyone's nerves. Haven't seen the local one in a while, though...not that anyone is complaining.
+<--->
+Did you know the Dark Elves keep slaves in Morrowind? Preposterous!
+<--->
+I heard the %rt is having an affair with the wife of one of the other councilors.
+<--->
+Everyone says %nam murdered %mn2, but I don't believe it. They were the best of friends.
+<--->
+Everyone says %nam murdered %fn2, but I don't believe it. They were the best of friends.
+<--->
+Did you hear our %rt, %rn, killed a noble in a duel over an insult?
+<--->
+Everybody's complaining about not getting enough sleep. Maybe it's the weather.
+<--->
+And how do you think it was that bloated Imperial plutocrats got the charter to exploit %reg's ebony deposits, and not one of our local companies? Big fat bribes, I tell you. And friends in high places.
+<--->
+The guys who are making the REAL money are the tax agents and bureaucrats. They take their percentages off the top.
+<--->
+Everyone knows who really runs %reg. It's not the councilors. No one sits on that council unless it suits %rn.
+<--->
+%mn2 was arrested on charges of smuggling. It seems someone he hired for a delivery of smuggled ebony turned him over to the authorities.
+<--->
+%fn2 was arrested on charges of smuggling. It seems someone she hired for a delivery of smuggled ebony turned her over to the authorities.
+<--->
+%nam is back in %cn. And when you see %nam, you know there's smuggling going on.
+<--->
+The smugglers working out of ___smuggler_ lost their contact in %cn. I hear they're working now with someone in another settlement close-by.
+<--->
+Yes, I've heard what %nam has been saying. Of course they're smugglers in %reg. When was that ever news?
+<--->
+Some strange men came through here not long ago. Stopped by the general store. Tight-lipped, suspicious bunch.
+<--->
+%fn2 will never stop smuggling. It's all she knows. And if you see her here in %cn, she's got something going on. But where?
+<--->
+%mn2 will never stop smuggling. It's all he knows. And if you see him here in %cn, he's got something going on. But where?
+<--->
+Did you hear about the pilgrims headed north of %cn? That's no place for a party of pilgrims.
+<--->
+Did you hear about the pilgrims headed east of %cn? That's no place for a party of pilgrims.
+<--->
+Did you hear about the pilgrims headed west of %cn? That's no place for a party of pilgrims.
+<--->
+Did you hear about the pilgrims headed south of %cn? That's no place for a party of pilgrims.
+<--->
+I'm telling you, it's making me worried. My neighbor was outside in the middle of the night last night, running around, talking nonsense, and in the morning, he doesn't remember a thing about it. Those scholars talk stuff about delusion diseases and such. What the hell does that mean? And why can't the priests cure it?
+<--->
+I'm telling you, it's making me worried. My neighbor was outside in the middle of the night last night, running around, talking nonsense, and in the morning, she doesn't remember a thing about it. Those scholars talk stuff about delusion diseases and such. What the hell does that mean? And why can't the priests cure it?
+<--->
+%fn2 found a sorcerer's laboratory out in the middle of %reg, but she used an enchantment to escape, and now she doesn't know exactly where the place was.
+<--->
+%mn2 found a sorcerer's laboratory out in the middle of %reg, but he used an enchantment to escape, and now he doesn't know exactly where the place was.
+<--->
+You know, I just heard someone say they'd heard about smugglers around here. Sorry. I don't remember the details.
+<--->
+Now that they found %mn2's little hole over by %cn, where do you suppose he's moved his operation? It's got to be close by, with the volume of stuff he's smuggling.
+<--->
+Now that they found %fn2's little hole over by %cn, where do you suppose she's moved his operation? It's got to be close by, with the volume of stuff she's smuggling.
+<--->
+I've been hearing of a lot of people with bad dreams, seeing bad omens, stuff like that. Haven't you?
+<--->
+A sailor from Soulrest says he heard the Expeditionary Force has put down the tribal uprisings in Black Marsh. He says local traders expect exports of gold and timber to resume after the plantations and mines are rebuilt.
+<--->
+Everyone knows the %cn lord, %nam, is on the take. Thieves, thugs, and murderers are getting ridiculous sentences, or paying a drake and walking free. But they'll never get %nam, not with the fatcats and family back in the city to cover him.
+<--->
+Well, I don't know if anyone else has seen him, but I saw some crazy guy wandering around the hills recently. He was all decked out in armor and waving his sword, mumbling about there being no one to challenge him. I'd steer clear, stranger.
+<--->
+I've heard there are a number of young locals who follow a vampire named %nam. They hide themselves in one of the crypts nearby and do whatever it is they do. Idiots, if you ask me.
+<--->
+One of the mages over at a Mages Guild wants to talk to a witch from a coven. But there's not much chance of getting a witch to visit %cn.
+<--->
+They say the Legion gives out good armor to their best recruits.
+<--->
+I have heard of a traveling mage who summons creatures, just so he can slay them and capture their souls.
+<--->
+Did you hear that high ranking Legion officers duel each other for rank?
+<--->
+I've been meaning to make the pilgrimage to __shrine_, but it's such a long way....
+<--->
+I've heard there's a cult of Daedra worshippers right here in %cn.
+<--->
+%nam is claiming to be %god Incarnate. So far the priests haven't said anything about it.
+<--->
+My cousin claimed he saw a city in the water here in %reg. He's a drunkard, though, and spends too much time in the sun.
+<--->
+%fn2 has a little bit of a "sweet tooth," if you know what I mean. I heard her connection hasn't arrived yet, though, and she's been acting a bit jumpy.
+<--->
+Take care when walking the roads. There have been rumors of a bandit robbing careless travelers near %cn.
+<--->
+A caravaner told me he delivered a bunch of pilgrims in robes and a pile of equipment to a drop site south of %cn. There's nothing out there to interest a pilgrim. You want to bet that's a bunch of evil sorcerers setting up housekeeping?
+<--->
+The word I hear is that a team of smugglers are working out of a cave in the hills east of %cn.
+<--->
+The wild rats have been a real problem in %cn lately.
+<--->
+There've been a lot of thefts lately -- high-class stuff, not just petty burglary and pickpocketing. I think there's someone new in town. Someone ambitious. Someone really good.
+<--->
+Beggars are really becoming a problem in %cn. They just won't take 'no' for an answer. Sure, this is %god's city of love and charity. But sometimes I want to smack those whining pests.
+<--->
+%mn2 has no idea what's going on behind his back. And I'm sure not going to tell him.
+<--->
+Whatever you do, don't play cards with %mn2. The word is that he's a hustler just moved here from the Imperial Province.
+<--->
+Whatever you do, don't play cards with %fn2. The word is that she's a hustler just moved here from the Imperial Province.
+<--->
+They say there is buried treasure somewhere in %reg. Problem is, nobody has ever found the map.
+<--->
+Did you hear? %nam killed %mn2 in cold blood! %mn2's widow %fn2 is seeking retribution. She deserves it, if you ask me.
+<--->
+Did you hear? %nam killed %fn2 in cold blood! %fn2's widow %mn2 is seeking retribution. He deserves it, if you ask me.
+<--->
+I keep on hearing a lot about a military build up. %nam, the new commander of %reg's military, has been sending a lot of them north. I fear a war might be brewing.
+<--->
+Everyone seems to be dropping dead these days. First %nam, then %mn2 gets sick, and now %fn2's dead. Something's brewing, and it's nothin' good.
+<--->
+Hear about the heroes of __hamlet_? Some good folk -mercenaries it's said- came down and solved all that town's problems.
+<--->
+I hear some units of %reg's military have been sent to __hamlet_.  Seems like the %rt's real paranoid about one of our neighbors.
+<--->
+I hear that one of the neighboring regions' behind all those bandits around. It makes me worry about what kinda things they could be scheming.
+<--->
+I wonder where those bandits come from?  They seem to know exactly how to escape the %reg's military. Where do they hide? Must be somewhere in the wilds. 
+<--->
+It's been really slow of late. With all the raiders making the roads so dangerous, no one's willing to travel any more. I wish the %rt would do something about those bandits.
+<--->
+Some farmers who came in a little while back. They said that something that moved through the ground was eating all their cattle!  Some huge insect beast.
+<--->
+Some guy came in yesterday.  Said he was part of a caravan coming from __hamlet_ to __hamlet2_. Said his caravan got wiped out, raiders in the night so it seems. There were humans and orcs attacking together he said.  Can you believe that!  Human folk working with orc scum; what has this world come to?
+<---> 
+That %ln fellow, he's a strange one. Always leaving town in the middle of the night and coming back in the morning. He thinks no one notices, but come on! With everyone so paranoid, it's impossible to go 'bout unnoticed.  
+<---> 
+The raiding has been getting' worse. Those damn bandits have made it impossible to travel the roads anymore, especially if yer an ebony caravan. They gut you quicker than you can say %god.
+<--->
+There's been a big influx of soldiers into town lately. I don't know what all the extra troops are here for, but it puts me on edge. Certainly it does.
+<---> 
+Those damn bandits! Just heard from my spouse. They've struck again, slaughtered the men who were guarding the caravan, including two boys from here in %cn. Such a sad thing.
+<--->
+Beware the wilds to the northwest friend, for I hear tell of giants and madmen.
+<--->
+One should beware of walking %cn late at night...footpads and muggers openly attack you, amongst other forms of trouble.
+<--->
+The Akatosh Chantry and the House of Dibella are in a constant fight for dominance in the Iliac Bay...many believe this will soon lead to open war.
+<--->
+The Order of Arkay and the House of Dibella are in a constant fight for dominance in the Iliac Bay...many believe this will soon lead to open war.
+<--->
+The Mages Guild and the School of Julianos are in a constant fight for dominance in the Iliac Bay...many believe this will soon lead to open war.
+<--->
+The Temple of Stendarr and Ebonarm are in a constant fight for dominance in the Iliac Bay...many believe this will soon lead to open war.
+<--->
+The Resolution of Z'en and the Benevolence of Mara are in a constant fight for dominance in the Iliac Bay...many believe this will soon lead to open war.
+<--->
+The Thieves Guild run %reg's main cities...anyone who visits those should pay heed to them or suffer the consequences.
+<--->
+Slavery is illegal in the Iliac Bay, but it is rumored the skin trade still exists... providing gladiators and foreign courtesans for the amusement of %reg's nobility.
+<--->
+One should be wary of going into ___cem_ at night...it is said that the dead, and worse things, can come out of the older and deeper tombs.
+<--->
+There is a rival guild to the Thieves Guild.  They've been recruiting in mass numbers.  But the Thieves Guild are still larger, and should wipe them out if they try.
+<--->
+Many blame the murders in __village_ on bears that have been active in the region for the last several years...supposedly led by an actual werebear.
+<--->
+Some say the witch =witch_ has surfaced again.  She vanished 700 years ago, but legend holds that every century or so her reign of murder and torture begins again.
+<--->
+A few centuries ago bands of mithril were discovered and mined.  Temples sprung up and wealthy %reg families bought land... it was all abandoned when the mithril ran out.
+<--->
+The %ln and the %ln, two of the wealthiest families in %cn, have been at each other's throats for generations.
+<--->
+A month ago, Lady %fn2 convinced the Council to sell her sole license for fur sales in %cn.  Lord %mn2 was reportedly incensed!
+<--->
+They say %nam and %mn2 and all their companions were lost in an adventure up by __village_.  It would be a tragedy if that were true.
+<--->
+Word is, the %rt's getting worried about the number of orc attacks - no matter how many times we beat them back, the bastards crop up again somewhere else.
+<--->
+Orc threat's been good for business - we've got more drunk mercenaries than we know what to do with... and they're all spending the %rt's coin.
+<--->
+Not even %ln's best scouts have been able to determine where the orcs have been striking from.
+<--->
+Someone called %mn2 came into town with a silver wolf charm he claims can summon wolves to his side. I'll believe it when I see it.
+<--->
+You look an awful lot like someone who owes me gold.
+<--->
+I saw someone disappear down that well on the east side of town. Went right over the stone rim and vanished. I looked for them, but not even a ripple in the water that I could see.
+<--->
+I seen the man runnin’ on the rooftops. He jumped ... and then just kept going into the sky over the trees. He’s a daedra, I tell ya!
+<--->
+One of the innkeepers here waters down the wines. And puts vinegar in the drinks of those who stiff him one too many times. I have no idea which tavern it is, though.
+<--->
+You go out ta the wilds under that full moon, and you’ll see that tower just appear. I was out there with mah dogs and they ran right into the dark. I lost my wineskin, too!
+<--->
+It’s the wrens during the day going crazy. And the bats at night. You can see them flying in wide gyres over the cemetery.
+<--->
+The %ln family farm burned down last full moon. And the %ln farm on the moon before that. We all better watch out in three days.
+<--->
+Someone keeps lookin’ in the windows round town. You can just see the eyes. Like burning gold, they are, and wide. They just stare and stare until you blink and then they’re gone.
+<--->
+You see the symbols carved into the trees? That cult we got rid of years ago is back, I tell you.
+<--->
+Cold is coming, I can feel it in my bones. Gonna be a bad one. Cold so bad your spit’ll freeze on your lips.
+<--->
+You hear those howls? Those ain’t wolves. Somethin’ else is walkin’ the hills.
+<--->
+If you pay for the round, I’ll tell you what you need to know. And a few things you won’t want to hear.
+<--->
+Someone’s putting up those posters for that Quill circus, but no one ever sees them.
+<--->
+Many local farmers have been saying their cows and pigs have been stolen or worse, killed.
+<--->
+A dragon lives at the bottom of the Iliac Bay. If you can answer his riddles, he will give you a great reward.
+<--->
+I heard the hermit at __shrine_ secretly worships Mehrunes Dagon.
+
+
+QBN:
+Place _smuggler_ remote dungeon
+Place _shrine_ remote cult
+Place _hamlet_ remote hamlet
+Place _hamlet2_ remote hamlet
+Place _village_ remote village
+Place _cem_ remote graveyard
+
+Foe _witch_ is Lich
+
+Clock _reset_ 7.00:00
+
+--	Quest start-up:
+    start timer _reset_
+
+_reset_ task:
+    end quest
