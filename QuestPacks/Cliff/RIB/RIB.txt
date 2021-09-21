@@ -14,7 +14,6 @@ QuestFail:  [1003]
 
 QuestComplete:  [1004]
 
-RumorsDuringQuest:   [1005]
 
 QBN:
 

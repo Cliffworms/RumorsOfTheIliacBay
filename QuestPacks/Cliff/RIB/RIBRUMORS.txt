@@ -81,7 +81,7 @@ Everyone knows who really runs %reg. It's not the councilors. No one sits on tha
 <--->
 %nam is back in %cn. And when you see %nam, you know there's smuggling going on.
 <--->
-The smugglers working out of ___smuggler_ lost their contact in %cn. I hear they're working now with someone in another settlement close-by.
+The smugglers working out of __smuggler_ lost their contact in %cn. I hear they're working now with someone in another settlement close-by.
 <--->
 Yes, I've heard what %nam has been saying. Of course they're smugglers in %reg. When was that ever news?
 <--->
@@ -99,10 +99,6 @@ Did you hear about the pilgrims headed west of %cn? That's no place for a party 
 <--->
 Did you hear about the pilgrims headed south of %cn? That's no place for a party of pilgrims.
 <--->
-I'm telling you, it's making me worried. My neighbor was outside in the middle of the night last night, running around, talking nonsense, and in the morning, he doesn't remember a thing about it. Those scholars talk stuff about delusion diseases and such. What the hell does that mean? And why can't the priests cure it?
-<--->
-I'm telling you, it's making me worried. My neighbor was outside in the middle of the night last night, running around, talking nonsense, and in the morning, she doesn't remember a thing about it. Those scholars talk stuff about delusion diseases and such. What the hell does that mean? And why can't the priests cure it?
-<--->
 %fn2 found a sorcerer's laboratory out in the middle of %reg, but she used an enchantment to escape, and now she doesn't know exactly where the place was.
 <--->
 %mn2 found a sorcerer's laboratory out in the middle of %reg, but he used an enchantment to escape, and now he doesn't know exactly where the place was.
@@ -114,12 +110,6 @@ Now that they found %mn2's little hole over by %cn, where do you suppose he's mo
 Now that they found %fn2's little hole over by %cn, where do you suppose she's moved his operation? It's got to be close by, with the volume of stuff she's smuggling.
 <--->
 I've been hearing of a lot of people with bad dreams, seeing bad omens, stuff like that. Haven't you?
-<--->
-A sailor from Soulrest says he heard the Expeditionary Force has put down the tribal uprisings in Black Marsh. He says local traders expect exports of gold and timber to resume after the plantations and mines are rebuilt.
-<--->
-Everyone knows the %cn lord, %nam, is on the take. Thieves, thugs, and murderers are getting ridiculous sentences, or paying a drake and walking free. But they'll never get %nam, not with the fatcats and family back in the city to cover him.
-<--->
-Well, I don't know if anyone else has seen him, but I saw some crazy guy wandering around the hills recently. He was all decked out in armor and waving his sword, mumbling about there being no one to challenge him. I'd steer clear, stranger.
 <--->
 I've heard there are a number of young locals who follow a vampire named %nam. They hide themselves in one of the crypts nearby and do whatever it is they do. Idiots, if you ask me.
 <--->
@@ -137,13 +127,13 @@ I've heard there's a cult of Daedra worshippers right here in %cn.
 <--->
 %nam is claiming to be %god Incarnate. So far the priests haven't said anything about it.
 <--->
-My cousin claimed he saw a city in the water here in %reg. He's a drunkard, though, and spends too much time in the sun.
+My cousin claimed he saw a city in a lake here in %reg. He's a drunkard, though, and spends too much time in the sun.
 <--->
 %fn2 has a little bit of a "sweet tooth," if you know what I mean. I heard her connection hasn't arrived yet, though, and she's been acting a bit jumpy.
 <--->
 Take care when walking the roads. There have been rumors of a bandit robbing careless travelers near %cn.
 <--->
-A caravaner told me he delivered a bunch of pilgrims in robes and a pile of equipment to a drop site south of %cn. There's nothing out there to interest a pilgrim. You want to bet that's a bunch of evil sorcerers setting up housekeeping?
+A caravaner told me he delivered a bunch of pilgrims in robes and a pile of equipment to a drop site south of %cn. You want to bet that's a bunch of evil sorcerers setting up housekeeping?
 <--->
 The word I hear is that a team of smugglers are working out of a cave in the hills east of %cn.
 <--->
@@ -181,9 +171,7 @@ It's been really slow of late. With all the raiders making the roads so dangerou
 <--->
 Some farmers who came in a little while back. They said that something that moved through the ground was eating all their cattle!  Some huge insect beast.
 <--->
-Some guy came in yesterday.  Said he was part of a caravan coming from __hamlet_ to __hamlet2_. Said his caravan got wiped out, raiders in the night so it seems. There were humans and orcs attacking together he said.  Can you believe that!  Human folk working with orc scum; what has this world come to?
-<---> 
-That %ln fellow, he's a strange one. Always leaving town in the middle of the night and coming back in the morning. He thinks no one notices, but come on! With everyone so paranoid, it's impossible to go 'bout unnoticed.  
+That %ln fellow, he's a strange one. Always leaving town in the middle of the night and coming back in the morning. With everyone so paranoid, it's impossible to go about unnoticed.  
 <---> 
 The raiding has been getting' worse. Those damn bandits have made it impossible to travel the roads anymore, especially if yer an ebony caravan. They gut you quicker than you can say %god.
 <--->
@@ -191,7 +179,7 @@ There's been a big influx of soldiers into town lately. I don't know what all th
 <---> 
 Those damn bandits! Just heard from my spouse. They've struck again, slaughtered the men who were guarding the caravan, including two boys from here in %cn. Such a sad thing.
 <--->
-Beware the wilds to the northwest friend, for I hear tell of giants and madmen.
+Beware the wilds of %reg friend, for I hear tell of giants and madmen.
 <--->
 One should beware of walking %cn late at night...footpads and muggers openly attack you, amongst other forms of trouble.
 <--->
@@ -209,7 +197,7 @@ The Thieves Guild run %reg's main cities...anyone who visits those should pay he
 <--->
 Slavery is illegal in the Iliac Bay, but it is rumored the skin trade still exists... providing gladiators and foreign courtesans for the amusement of %reg's nobility.
 <--->
-One should be wary of going into ___cem_ at night...it is said that the dead, and worse things, can come out of the older and deeper tombs.
+One should be wary of going into __cem_ at night...it is said that the dead, and worse things, can come out of the older and deeper tombs.
 <--->
 There is a rival guild to the Thieves Guild.  They've been recruiting in mass numbers.  But the Thieves Guild are still larger, and should wipe them out if they try.
 <--->
@@ -237,23 +225,23 @@ You look an awful lot like someone who owes me gold.
 <--->
 I saw someone disappear down that well on the east side of town. Went right over the stone rim and vanished. I looked for them, but not even a ripple in the water that I could see.
 <--->
-I seen the man runnin’ on the rooftops. He jumped ... and then just kept going into the sky over the trees. He’s a daedra, I tell ya!
+I've seen a man running on the rooftops. He jumped ... and then just kept going into the sky over the trees. He’s a daedra, I tell you!
 <--->
 One of the innkeepers here waters down the wines. And puts vinegar in the drinks of those who stiff him one too many times. I have no idea which tavern it is, though.
 <--->
-You go out ta the wilds under that full moon, and you’ll see that tower just appear. I was out there with mah dogs and they ran right into the dark. I lost my wineskin, too!
+If you go out in the wilds around %cn under that full moon, you’ll see a tower just appear. I was out there with my dogs and they ran right into the dark. I lost my wineskin, too!
 <--->
 It’s the wrens during the day going crazy. And the bats at night. You can see them flying in wide gyres over the cemetery.
 <--->
 The %ln family farm burned down last full moon. And the %ln farm on the moon before that. We all better watch out in three days.
 <--->
-Someone keeps lookin’ in the windows round town. You can just see the eyes. Like burning gold, they are, and wide. They just stare and stare until you blink and then they’re gone.
+Someone keeps looking in the windows around town. You can just see the eyes. Like burning gold, they are, and wide. They just stare and stare until you blink and then they’re gone.
 <--->
 You see the symbols carved into the trees? That cult we got rid of years ago is back, I tell you.
 <--->
 Cold is coming, I can feel it in my bones. Gonna be a bad one. Cold so bad your spit’ll freeze on your lips.
 <--->
-You hear those howls? Those ain’t wolves. Somethin’ else is walkin’ the hills.
+You hear those howls? Those ain’t wolves. Something else is walking the hills.
 <--->
 If you pay for the round, I’ll tell you what you need to know. And a few things you won’t want to hear.
 <--->
@@ -264,7 +252,50 @@ Many local farmers have been saying their cows and pigs have been stolen or wors
 A dragon lives at the bottom of the Iliac Bay. If you can answer his riddles, he will give you a great reward.
 <--->
 I heard the hermit at __shrine_ secretly worships Mehrunes Dagon.
-
+<--->
+I heard a group of brigands operating near %cn have been turned into snakes by a wandering enchantress.
+<--->
+%nam was killed by zombies in the hills outside town.
+<--->
+My neighbor told me that ghosts walk the ramparts of __smuggler_ during the full moon
+<--->
+Apparently an iron atronach has escaped from the Mages Guild.
+<--->
+A friend of a friend heard that a ring of magical stone monoliths lies deep within %reg' wilderness.
+<--->
+The %rt's guard have captured a mysterious red-robed assassin.
+<--->
+A gang of thieves accidentally set fire to a temple of %god in _village_.
+<--->
+I heard at the tavern that a star has fallen into %reg. 
+<--->
+Can you believe it? Some sa that the current %rt's a doppelganger. Like that business with Jagar Tharn!
+<--->
+Bizarre monsters have been encountered in the wilds around %cn.
+<--->
+I heard something odd. The daugher of one of %cn's innkeepers disappeared about when he got his new cat.
+<--->
+A caravan is expected to arrive here in %cn, carrying exotic weapons from the distant provinces of the Empire.
+<--->
+A patrol of soldiers has discovered a lost city deep in %reg's wilderness.
+<--->
+They say that Lady %ln is dying of an incurable affliction.
+<--->
+Believe it or not, but an undead knight in the ruins of __smuggler_ sometimes helps worthy adventurers.
+<--->
+A traveller told me that a deadly plague is spreading from the town of _village_.
+<--->
+Some drunk told me %cn was built on top of an ancient necropolis.
+<--->
+Somebody was murdered by thieves last night in an alleyway near a tavern.
+<--->
+My friend told me his family's tomb in __cem_ had been looted. Damn graverobbers.
+<--->
+%mn2 was heard boasting that the %rt owes him a great debt.
+<--->
+I heard that a colossal ooze-like daedra has been summoned in the Dragontail Mountains.
+<--->
+%fn2 was heard boasting that she has stolen magical boots which allow her to walk through walls.
 
 QBN:
 Place _smuggler_ remote dungeon
